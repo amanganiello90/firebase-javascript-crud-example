@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Angelo Manganiello",
+      "age": 31,
+      "email": "ang@email.com"
+    },
+    {
+      "name": "Giovanni Fioccola",
+      "age": 36,
+      "email": "giov@email.com"
+    },
+    {
+      "name": "Sheldon Cooper",
+      "age": 45,
+      "email": "sheldon@email.com"
+    },
+    {
+      "name": "Penny Picha",
+      "age": 26,
+      "email": "penny@email.com"
+    }
+  ]
+
+}
